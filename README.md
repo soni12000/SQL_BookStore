@@ -13,4 +13,4 @@ In this project, I worked with three CSV files (Books, Customers, and Orders) to
  - The most frequently ordered book.
  - The top 3 most expensive books in the Fantasy genre.
  - The total stock remaining after fulfilling all orders.
- - Customer locations where spending exceeded $30.
+ - Customer locations where spending exceeded $30. and many more...
